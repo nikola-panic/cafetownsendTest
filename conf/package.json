@@ -1,0 +1,11 @@
+{
+  "name": "project0",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "protractor-jasmine2-screenshot-reporter": "^0.2.0",
+    "protractor-uisref-locator": "^1.2.0",
+    "request": "^2.74.0",
+    "request-promise": "^4.1.1"
+  }
+}
